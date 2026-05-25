@@ -11,4 +11,4 @@ To unblock the GA loop execution, we have implemented the first version of our a
 
 3. **Structural Heuristics Metric:**
    * Evaluates the layout of the course on a 1–5 scale.
-   * Tracks Markdown header hierarchy (`#`, `##`, `###`) to ensure proper organization and penalize skipped formatting levels.
+   * Tracks header hierarchy (`#`, `##`, `###`) to ensure proper organization
